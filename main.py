@@ -1,1 +1,2 @@
 print("Merhaba dünya")
+print()
